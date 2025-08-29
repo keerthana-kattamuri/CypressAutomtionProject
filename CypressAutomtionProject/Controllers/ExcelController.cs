@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace CypressAutomtionProject.Controllers
+namespace CypressAutomationProject.Controllers
 {
     [ApiController]
     [Route("[controller]")]
